@@ -11,7 +11,7 @@
         <author>RetroRevistas</author>
         <email>retropublicaciones@gmail.com</email>
         <homepage>https://www.retrorevistas.com</homepage>
-        <url>https://raw.github.com/ctRl-ES/Hobby-Consolas-dat/master/Hobby%20Consolas%20by%20ctRl.dat</url>
+        <url>https://raw.githubusercontent.com/devilgaia/retrorevistas-dat/main/dats/Hobby%20Consolas.dat</url>
         <comment>License: CC BY-NC-SA 3.0 (Derived from: http://www.kaiserland77.com/blog/)</comment>
         <clrmamepro forcepacking="unzip"/>
     </header>
