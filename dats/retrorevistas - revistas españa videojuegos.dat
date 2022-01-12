@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Retrorevistas - Revistas España Videojuegos</name>
+		<description>Retrorevistas - Revistas España Videojuegos</description>
+		<category>Magazines</category>
+		<version>20220112</version>
+		<date>2022-01-12</date>
+		<author>DevilGaia</author>
+		<email>retropublicaciones@gmail.com</email>
+		<homepage>www.retrorevistas.com</homepage>
+		<url>https://www.github.com/devilgaia/retrorevistas-dat/</url>
+		<comment>Revistas retro de videojuegos de españa</comment>
+		<clrmamepro/>
+	</header>
+	<game name="HiTech (ES) [esp] [MULTI] (1995-1995)">
+		<description>HiTech (ES) [esp] [MULTI] (1995-1995)</description>
+		<manufacturer>Hobby Press S.A.</manufacturer>
+		<rom name="HiTech (001) [1995-03].pdf" size="80357360" crc="85821a14" md5="9e395c3683da083c7f55239b83ecf411" sha1="0b9a53d2a508ca50eacb081f0d1c7da8e04aff74"/>
+		<rom name="HiTech (002) [1995-04].pdf" size="73182506" crc="5e40328d" md5="b156c2cf3070b6c72cbebdabeab19e54" sha1="c19dbf410946eeaf0dec84f81ccf88018e8270e6"/>
+		<rom name="HiTech (003) [1995-05].pdf" size="69471027" crc="1c826b99" md5="81b1055a6e1318771c7f1d9f335e6577" sha1="43aea4b46a5cb94add309cc191051927d514eaa7"/>
+		<rom name="HiTech (004) [1995-06].pdf" size="68594727" crc="298671ba" md5="8f64cfd9135499c03e4c98095c757107" sha1="695d50846448f8ed99bad8a7cd86ecc1840e2f09"/>
+		<rom name="HiTech (005) [1995-07].pdf" size="71163831" crc="398810cc" md5="705c78745da8d85ca20b00ddd92a3af8" sha1="b256efd3368e0a8b5203eda234bee918055aacdf"/>
+		<rom name="HiTech (006) [1995-09].pdf" size="72335027" crc="4bba08f9" md5="76d3a1185f1a17cbbcf25bb7ee5d9b83" sha1="6466c965869d837734288a18c59d0dd858a0433b"/>
+		<rom name="HiTech (007) [1995-10].pdf" size="72398091" crc="6a44f3c6" md5="1ce66c6ad418da76e7cb08da45142ba0" sha1="183e5884568dbebf25c4141027b04d8b9f093959"/>
+	</game>
+	<machine name="3Dnassos (ES) [cat] [MULTI] (XXXX-XXXX)">
+		<description>3Dnassos (ES) [cat] [MULTI] (XXXX-XXXX)</description>
+		<manufacturer>3DNassos</manufacturer>
+		<rom name="3Dnassos (001) [XXXX-XX].pdf" size="3068638" crc="93d4920e"/>
+	</machine>
+	<machine name="6Dnassos (ES) [cat] [MULTI] (2018-2018)">
+		<description>6Dnassos (ES) [cat] [MULTI] (2018-2018)</description>
+		<manufacturer>6Dnassos (ES) [cat] [MULTI] (2018-2018)</manufacturer>
+		<rom name="6Dnassos (001) [2018-02].pdf" size="6178053" crc="c4ffe505"/>
+		<rom name="6Dnassos (002) [2018-03].pdf" size="8280475" crc="542a18d4"/>
+		<rom name="6Dnassos (003) [2018-04].pdf" size="8539810" crc="507f60ea"/>
+		<rom name="6Dnassos (004) [2018-05].pdf" size="8032289" crc="e160e082"/>
+		<rom name="6Dnassos (005) [2018-06].pdf" size="10766454" crc="c5f68fa9"/>
+	</machine>
+</datafile>
