@@ -31,7 +31,7 @@
 
   <p align="center">
     <p></p>
-    <a href="https://github.com/github_username/devilgaia/retrorevistas-dat">Reportar problema</a>
+    <a href="https://github.com/devilgaia/retrorevistas-dat/issues">Reportar problema</a>
   </p>
 </div>
 
