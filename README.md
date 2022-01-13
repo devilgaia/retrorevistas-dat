@@ -17,7 +17,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![](https://img.shields.io/github/contributors/devilgaia/retrorevistas-dat.svg?style=for-the-badge)
+[![Contributors][https://img.shields.io/github/contributors/devilgaia/retrorevistas-dat.svg?style=for-the-badge][https://github.com/devilgaia/retrorevistas-dat/graphs/contributors]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
