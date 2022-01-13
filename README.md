@@ -43,6 +43,10 @@
   <ol>
     <li><a href="#about-the-project">Acerca del proyecto</a></li>
     <li><a href="#usage">Cómo empezar</a></li>
+      <ul>
+        <li><a href="#prerequisites">Prerequisitos</a></li>
+        <li><a href="#installation">Instalación</a></li>
+      </ul>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contribuir</a></li>
     <li><a href="#license">Licencia</a></li>
